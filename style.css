@@ -3,6 +3,9 @@
     font-family:Arial, Helvetica, sans-serif ;
     border: border-box;
 }
+body{
+    background-color: rgb(220, 217, 217);
+}
 .navbar{
     height: 60px;
     color: white;
@@ -307,11 +310,26 @@
     display: flex;
     justify-content: space-evenly;
 }
+.g{
+    font-size: larger;
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .box1{
     height: 300px;
     width: 270px;
-   
+   background-color: white;
     
+}
+.s{
+    padding-top: 30px;
+    color: rgb(3, 73, 3);
+    font-size: small;
+}
+.s:hover{
+    color: orange;
+    text-decoration: underline;
 }
 .box1-a{
     height: 100px;
@@ -373,15 +391,37 @@
 .box2{
     height: 300px;
     width: 270px;
-    background-color: rgb(255, 127, 129);
+    background-color: white;
+}
+.sh{
+    font-size: small;
+    color: rgb(3, 73, 3); 
+    padding-top: 30px;
+}
+.sh:hover{
+    color: orange;
+    text-decoration: underline;
+}
+.d{
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.dj{
+    height: 250px;
+    width:270px ;
+    background-image: url("box-3.jpg");
+    background-size: cover;
 }
 .box3{
     height: 300px;
     width: 270px;
     background-color: rgb(8, 27, 123);
+    background-color: white;
 }
 .box4{
     height: 300px;
     width: 270px;
     background-color: rgb(19, 187, 13);
+    background-color: white;
 }
