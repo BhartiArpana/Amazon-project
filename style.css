@@ -679,6 +679,7 @@ body{
     background-color: white;
     align-items: center;
     padding-top: 20px;
+    border: 1px solid black;
     
 }
 .sign-up-text1{
@@ -728,6 +729,7 @@ color: rgb(40, 40, 40);
 .footer-vertical-row{
     height: 335px;
     background-color: #22364f;
+    border: 1px solid rgb(233, 229, 229) ;
 }
 .footer-vertical-row-container{
     display: flex;
@@ -771,4 +773,101 @@ color: rgb(40, 40, 40);
 }
 .design:hover{
     text-decoration: underline;
+}
+
+
+.footer-lower{
+    height: 100px;
+    background-color: #22364f;
+    display: flex;
+    justify-content: space-evenly;
+}
+.aws-logo{
+    height: 70px;
+    width: 140px;
+    background-image: url("logo.png");
+    background-size: cover;
+}
+.footer-text{
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 10px;
+    
+
+}
+.footer-lower-text1{
+    height: 30px;
+    width: 130px;
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(233, 229, 229);
+    border: 1px solid white;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+.footer-lower-text2{
+    height: 30px;
+    width:150px ;
+    display: flex;
+    justify-content: space-evenly;
+    color:rgb(233, 229, 229) ;
+   margin-top: 20px; 
+   padding-top: 5px;
+    
+    border: 1px solid white;
+}
+.footer-lower-text3{
+    height: 30px;
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid white;
+    margin-top: 20px; 
+   padding-top: 5px;
+   color:rgb(233, 229, 229) ;
+   padding-top: 5px;
+}
+.footer-lower-logo{
+    height: 15px;
+    width: 25px;
+    background-image: url("flag.webp");
+    background-size: cover;
+
+}
+.footer-end{
+    height: 350px;
+    background-color: #010e1e;
+}
+.footer-end-container{
+    height: 315px;
+  
+}
+.line1{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+.design1{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+}
+.design2{
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(233, 229, 229) ;
+}
+.line2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.line3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.line4{
+    display: flex;
+    justify-content: space-evenly;
 }
