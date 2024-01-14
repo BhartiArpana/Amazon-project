@@ -435,4 +435,66 @@ body{
     width: 270px;
     background-color: rgb(19, 187, 13);
     background-color: white;
+    
+}
+.r{
+    font-size: larger;
+    font-weight: bold;
+    padding-top: 10px;
+}
+.box4-a{
+    height: 100px;
+    width: 265px;
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.di{
+    font-size: small;
+    padding-top: 100px;
+}
+.box4-a1{
+    height: 100px;
+    width: 100px;
+    background-image: url("box-4-a.jpg");
+    background-size: cover;
+    margin-left: 10px;
+}
+.box4-a2{
+    height: 100px;
+    width: 100px;
+    
+    background-image: url("box-4-b.jpg");
+    background-size: cover;
+}
+.box4-b{
+    height: 100px;
+    width: 265px;
+    
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.ki{
+    font-size: small;
+    padding-top: 100px;
+}
+.hb{
+    font-size: x-small;
+    padding-top: 100px;
+}
+.box4-b1{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+    background-image: url("box-4-c.jpg");
+    background-size: cover;
+}
+.box4-b2{
+    height: 100px;
+    width: 100px;
+    
+    background-image: url("box-4-d.jpg");
+    background-size: cover;
 }
