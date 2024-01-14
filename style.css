@@ -672,3 +672,103 @@ body{
     margin-left: 15px;
     margin-top: 30px;
 }
+
+
+.sign-up-page{
+    height: 100px;
+    background-color: white;
+    align-items: center;
+    padding-top: 20px;
+    
+}
+.sign-up-text1{
+font-size: small;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 500px;
+color: rgb(40, 40, 40);
+}
+.sign-up-sign-in{
+    height: 26px;
+    width: 170px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: rgb(255, 165, 0,0.8);
+    padding-left: 90px;
+    padding-top: 10px;
+    margin-left: 480px;
+    
+}
+.sign-up-text3{
+    font-size: smaller;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 520px;
+}
+.sign-up-text4{
+    color: rgb(3, 133, 83);
+}
+.sign-up-text4:hover{
+    color: orange;
+    text-decoration: underline;
+}
+
+.back-top{
+    height: 49px;
+    background-color: #222f3d;
+}
+.back-top-text{
+    color: white;
+    padding-left: 570px;
+    padding-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-weight: bold;
+}
+.footer-vertical-row{
+    height: 335px;
+    background-color: #22364f;
+}
+.footer-vertical-row-container{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.gtku{
+    padding-top: 40px;
+}
+.gtku-text{
+    font-weight: bold;
+    font-size: medium;
+}
+.mmku{
+    padding-top: 40px;
+}
+.mmku-text{
+    font-weight: bold;
+    font-size: medium; 
+}
+.app{
+    padding-top: 40px;
+}
+.app-text{
+    font-weight: bold;
+    font-size: medium;
+}
+.luhy{
+    padding-top: 40px;
+}
+.luhy-text{
+    font-weight: bold;
+    font-size: medium;
+}
+.design{
+    padding-top: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(233, 229, 229);
+}
+.design:hover{
+    text-decoration: underline;
+}
