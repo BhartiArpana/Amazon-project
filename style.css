@@ -635,7 +635,22 @@ body{
 .cloths-box3{
     height: 350px;
     width: 270px;
-    background-color: rgb(40, 22, 146);
+    background-color: white
+}
+.cloths-box3-pic{
+    height: 270px;
+    width: 240px;
+    background-image: url("box-8.jpg");
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cloths-box3-text{
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-left: 20px;
 }
 .cloths-box4{
     height: 350px;
